@@ -1,8 +1,3 @@
----
-slug: /platform/flow-splitters
-description: The easiest way to dynamically stream tokens to your team, guild, DAO, or community.
----
-
 # Flow Splitters
 
 :::info The easiest way to dynamically stream tokens to your team, guild, DAO, or community.
