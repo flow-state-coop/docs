@@ -11,7 +11,7 @@ Flow Splitters make this powerful onchain primitive accessible through a no-code
 
 Streams are the ultimate form of programmable money. We want more teams, guilds, DAOs, and communities to be able to tap into their power. [Give us a shout if you have feedback or ideas](https://t.me/flowstatecoop).
 
-:::note[What is streaming money?]
+:::info[What is streaming money?]
 Check out the [Superfluid Docs](https://docs.superfluid.finance/docs/concepts/superfluid) to learn more about [streaming money](https://docs.superfluid.finance/docs/concepts/overview/money-streaming), [Super Tokens](https://docs.superfluid.finance/docs/concepts/overview/super-tokens), [distribution pools](https://docs.superfluid.finance/docs/concepts/overview/distributions), and other protocol foundations. 
 :::
 
@@ -128,7 +128,7 @@ If you’re signed in with a recipient wallet, we’ll remind you to complete th
 :::info[Why do I need to connect my shares?]
 Superfluid may seem like magic, but it’s really just clever use of math onchain.
 
-A core innovation of Superfluid is that a token balance need not be represented by just a static number (e.g. 12). This is what the ERC20 standard implements. A token balance could also include parameters like a flow rate and time (e.g. 12 + 2\*t where t = _current time - previous transaction time_). This is what Superfluid Super Tokens do to extend the ERC20 standard and enables value transfer to happen gaslessly (as much as you might want to slow down time it keeps moving forward).
+A core innovation of Superfluid is that a token balance need not be represented by just a static number (e.g. 12). This is what the ERC20 standard implements. A token balance could also include parameters like a flow rate and time (e.g. 12 + 2\*t where t = _current time - previous transaction time_). This is what Superfluid Super Tokens do to extend the ERC20 standard. This approach enables gasless value transfer (because as much as you might want to stop it, time keeps moving forward).
 
 So while the example above is simplified protocol implementation, it's fair to think of the transaction to connect your shares (and other streaming transactions) as updating your token balance formula.
 
