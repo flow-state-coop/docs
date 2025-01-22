@@ -6,6 +6,7 @@ description: The easiest way to dynamically stream tokens to your team, guild, D
 # Flow Splitters
 **_The easiest way to dynamically stream tokens to your team, guild, DAO, or community._**
 
+## Overview
 Flow Splitters are (onchain & offchain) enhanced [Superfluid distribution pools](https://docs.superfluid.finance/docs/concepts/overview/distributions).
 
 They enable scalable one-to-many token distributions onchain. With distribution pools, a money stream or token transfer can be proportionally split to an arbitrary number of recipients based on the shares each holds.
