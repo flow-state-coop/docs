@@ -11,7 +11,7 @@ Flow Splitters make this powerful onchain primitive accessible through a no-code
 
 Streams are the ultimate form of programmable money. We want more teams, guilds, DAOs, and communities to be able to tap into their power. [Give us a shout if you have feedback or ideas](https://t.me/flowstatecoop).
 
-:::tip
+:::note[What is streaming money?]
 Check out the [Superfluid Docs](https://docs.superfluid.finance/docs/concepts/superfluid) to learn more about [streaming money](https://docs.superfluid.finance/docs/concepts/overview/money-streaming), [Super Tokens](https://docs.superfluid.finance/docs/concepts/overview/super-tokens), [distribution pools](https://docs.superfluid.finance/docs/concepts/overview/distributions), and other protocol foundations. 
 :::
 
@@ -48,8 +48,8 @@ Creating a Flow Splitter requires a wallet, a little ETH, and no code. Navigate 
 #### Metadata
 Flow Splitter Shares are ERC20 tokens (with distribution superpowers). You can give your Shares a name and token symbol to identify or brand them across wallets and block explorers. If your Flow Splitter will be used for any external purposes (e.g. attracting funding for your team), you’re highly encouraged to use these fields.
 
-:::tip 
-These Share tokens are different from those you will distribute through the Flow Splitter. Think of Shares as the “stock” of the Flow Splitter and the Super Token as the “dividend” currency.
+:::tip[Shares aren't Super Tokens] 
+These Share tokens are distinct from those you will distribute through the Flow Splitter. Think of Shares as the “stock” of the Flow Splitter and the Super Token as the “dividend” currency.
 :::
 
 #### Core Configuration
@@ -98,7 +98,7 @@ The \`Open Flow\` button provides a guided checkout process for opening a stream
 
 We’ve included a simple line graph at checkout to demonstrate the impact of your transactions on your Super Token balance.
 
-:::tip 
+:::tip[Share your Flow Splitter] 
 Bookmark and share your unique Flow Splitter link with your team and community. We’ll explore public discovery and other ways to help attract funding to your Flow Splitter (if you want it). 
 :::
 
@@ -125,9 +125,7 @@ Recipients added to a Flow Splitter must complete a one-time transaction to begi
 
 If you’re signed in with a recipient wallet, we’ll remind you to complete this transaction when you visit a Flow Splitter page. You can also check your [Flow Splitter list](https://flowstate.network/flow-splitters) for disconnected shares.
 
-:::tip 
-Why do I need to connect my shares?
-
+:::info[Why do I need to connect my shares?]
 Superfluid may seem like magic, but it’s really just clever use of math onchain.
 
 A core innovation of Superfluid is that a token balance need not be represented by just a static number (e.g. 12). This is what the ERC20 standard implements. A token balance could also include parameters like a flow rate and time (e.g. 12 + 2\*t where t = _current time - previous transaction time_). This is what Superfluid Super Tokens do to extend the ERC20 standard and enables value transfer to happen gaslessly (as much as you might want to slow down time it keeps moving forward).
@@ -149,8 +147,8 @@ Rest assured, you don’t _need_ to unwrap your Super Token to access your funds
 
 We recommend adding your Flow Splitter’s distribution token to your wallet and/or check out the [Superfluid App](https://app.superfluid.finance/) to see and manage your balance.
 
-:::tip 
-A full list of deployed Super Tokens across networks is available on the Superfluid [Explorer](https://explorer.superfluid.finance/base-mainnet/supertokens).
+:::tip[Finding & Creating Super Tokens] 
+A full list of deployed Super Tokens across networks is available on the [Superfluid Explorer](https://explorer.superfluid.finance/base-mainnet/supertokens).
 
 You can also permissionlessly [launch your own “pure” Supertoken](https://docs.superfluid.finance/docs/protocol/super-tokens/guides/deploy-super-token/deploy-pure-super-token) or [deploy a “wrapper” for your favorite token to become Superfluid-enabled](https://docs.superfluid.finance/docs/protocol/super-tokens/guides/deploy-super-token/deploy-wrapped-super-token). 
 :::
