@@ -1,8 +1,5 @@
 # Flow Splitters
-
-:::info 
-The easiest way to dynamically stream tokens to your team, guild, DAO, or community.
-:::
+**_The easiest way to dynamically stream tokens to your team, guild, DAO, or community._**
 
 Flow Splitters are (onchain & offchain) enhanced [Superfluid distribution pools](https://docs.superfluid.finance/docs/concepts/overview/distributions).
 
@@ -14,7 +11,7 @@ Flow Splitters make this powerful onchain primitive accessible through a no-code
 
 Streams are the ultimate form of programmable money. We want more teams, guilds, DAOs, and communities to be able to tap into their power. [Give us a shout if you have feedback or ideas](https://t.me/flowstatecoop).
 
-:::tip 
+:::tip
 Check out the [Superfluid Docs](https://docs.superfluid.finance/docs/concepts/superfluid) to learn more about [streaming money](https://docs.superfluid.finance/docs/concepts/overview/money-streaming), [Super Tokens](https://docs.superfluid.finance/docs/concepts/overview/super-tokens), [distribution pools](https://docs.superfluid.finance/docs/concepts/overview/distributions), and other protocol foundations. 
 :::
 
@@ -50,7 +47,7 @@ Creating a Flow Splitter requires a wallet, a little ETH, and no code. Navigate 
 
 #### Metadata
 
-Flow Splitter Shares are ERC20 tokens (with distribution superpowers). You can give your Shares a name and token symbol to identify/brand them across wallets and block explorers. If your Flow Splitter will be used for any external purposes (e.g. attracting funding for your team), you’re highly encouraged to use these fields.
+Flow Splitter Shares are ERC20 tokens (with distribution superpowers). You can give your Shares a name and token symbol to identify or brand them across wallets and block explorers. If your Flow Splitter will be used for any external purposes (e.g. attracting funding for your team), you’re highly encouraged to use these fields.
 
 :::tip 
 These Share tokens are different from those you will distribute through the Flow Splitter. Think of Shares as the “stock” of the Flow Splitter and the Super Token as the “dividend” currency.
