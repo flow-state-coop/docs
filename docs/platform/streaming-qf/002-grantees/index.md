@@ -12,7 +12,7 @@ To receive funding in an SQF round, grantees must first create an Allo project. 
 
 Flow State has added several metadata fields to Gitcoin’s standard project setup and recommends lower image file sizes (for use in Farcaster Frames), so it’s always worth reviewing your project before submitting a new pool application.
 
-You can utilize [basic Markdown syntax](https://www.notion.so/Project-Markdown-d2b0e11a42a34564993a57a73c50eff6?pvs=21) in your Project Description to better organize your information.
+You can utilize [basic Markdown syntax](002-project-markdown.md) in your Project Description to better organize your information.
 
 Even if you haven’t found an SQF pool to apply for, you can create a project and start sharing your Flow State project home page to attract direct donation streams. Think of this page like your web3 Patreon page.
 
@@ -31,7 +31,7 @@ Once you’ve navigated to the application page and signed in with your project 
 Project information cannot be updated after an SQF round application is submitted. Make your updates before applying!
 :::
 
-The round operators will review your application onchain. You can check the status of your application by returning to this page. If accepted, you gain access to the [Grantee Tools](https://www.notion.so/Grantee-Tools-21814344e8c345738c741350f9ad9a93?pvs=21) tab to help manage and grow your grant.
+The round operators will review your application onchain. You can check the status of your application by returning to this page. If accepted, you gain access to the [Grantee Tools](001-tools.md) tab to help manage and grow your grant.
 
 Pay attention to any specific round criteria, focus, or application requirements before applying to rounds to save your and the round operators’ time. You can only apply **once per project per round**. Only **one project per grantee address** can be accepted to the pool.
 

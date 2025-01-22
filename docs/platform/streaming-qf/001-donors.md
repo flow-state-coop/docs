@@ -9,7 +9,7 @@ Grants on Flow State are streamed.
 
 Instead of in one-off or batch transactions, we use programmable money to its full potential to dynamically & continuously allocate funding.
 
-This guide will introduce you to the core concepts of streaming grants and see a new way of delivering, recognizing, and creating value:
+This guide will introduce you to the core concepts of streaming grants and see a new way of delivering, recognizing, and creating value.
 
 ## Superfluid & Super Tokens
 
@@ -19,8 +19,8 @@ There are several money “streaming” protocols available in web3, but we use 
 
 There are two Super Token types: 
 
-- Wrapper Super Tokens - Created by wrapping an existing token (akin to ETH & WETH). This new wrapped token is typically identified by adding “x” to the end of the underlying token ticker and referred to as “Super [Token Name]” (e.g. DAIx, Super DAI).
-- Pure Super Tokens - Launched natively with Superfluid capabilities and no separate underlying token.
+- **Wrapper Super Tokens:** Created by wrapping an existing token (akin to ETH & WETH). This new wrapped token is typically identified by adding “x” to the end of the underlying token ticker and referred to as “Super [Token Name]” (e.g. DAIx, Super DAI).
+- **Pure Super Tokens:** Launched natively with Superfluid capabilities and no separate underlying token.
 
 :::tip[Streaming Network Effects]
 Dapp and user adoption of Super Tokens will drive positive network effects—less wrapping/unwrapping, more composability, and higher capital efficiency.
@@ -40,8 +40,8 @@ Flow State is a platform for collectively and effectively allocating resources t
 
 As we continue to develop novel streaming allocation strategies, decision-making input will primarily take on two forms:
 
-1. Direct Donations - “Vote with financial units”
-2. Voting - “Vote with scarce, non-financial units”
+1. **Direct Donations:** Voting with financial units
+2. **Voting:** Voting with scarce, non-financial units
 
 Both are expressions of user preference with different tradeoffs and effective contexts that operators will weigh as they launch their rounds. The round’s grant checkout flow will guide you through the appropriate steps to make your voice heard.
 
@@ -71,8 +71,8 @@ Each grantee card on the round UI will show the impact you can have with ~$1/mon
 
 Flow State currently offers round operators two methods to define direct donor/voter eligibility criteria:
 
-1. ERC-721 - Under this method, users must hold at least 1 NFT in an operator-defined ERC-721 contract. The round operator may manually distribute, set conditions, or openly mint the NFT. The grant round UI checkout flow will include a link with instructions to obtain the NFT (if the round operator chooses). Typically, these tokens will be non-transferable. 
-2. [Passport (Onchain)](https://support.passport.xyz/passport-knowledge-base) - Passport (formerly Gitcoin Passport) uses an identity stamp & score-based approach to Sybil resistance. Users can generate a diverse set of verifiable credentials through the service. Flow State uses [the onchain version of Passport](https://support.passport.xyz/passport-knowledge-base/using-passport/onchain-passport) (which requires a small minting fee) for its fully onchain system. Each verifiable credential (stamp) adds to the user’s “Unique Humanity Score.” Round operators can set the minimum score required for participation in the round (typically between 10 & 20).
+1. **ERC-721:** Under this method, users must hold at least 1 NFT in an operator-defined ERC-721 contract. The round operator may manually distribute, set conditions, or openly mint the NFT. The grant round UI checkout flow will include a link with instructions to obtain the NFT (if the round operator chooses). Typically, these tokens will be non-transferable. 
+2. [**Passport (Onchain)**](https://support.passport.xyz/passport-knowledge-base): Passport (formerly Gitcoin Passport) uses an identity stamp & score-based approach to Sybil resistance. Users can generate a diverse set of verifiable credentials through the service. Flow State uses [the onchain version of Passport](https://support.passport.xyz/passport-knowledge-base/using-passport/onchain-passport) (which requires a small minting fee) for its fully onchain system. Each verifiable credential (stamp) adds to the user’s “Unique Humanity Score.” Round operators can set the minimum score required for participation in the round (typically between 10 & 20).
 
 ## Matching Pool Donations
 
