@@ -5,7 +5,8 @@ description: The easiest way to dynamically stream tokens to your team, guild, D
 
 # Flow Splitters
 
-:::info The easiest way to dynamically stream tokens to your team, guild, DAO, or community. :::
+:::info The easiest way to dynamically stream tokens to your team, guild, DAO, or community.
+:::
 
 Flow Splitters are (onchain & offchain) enhanced [Superfluid distribution pools](https://docs.superfluid.finance/docs/concepts/overview/distributions).
 
@@ -54,7 +55,8 @@ Creating a Flow Splitter requires a wallet, a little ETH, and no code. Navigate 
 
 Flow Splitter Shares are ERC20 tokens (with distribution superpowers). You can give your Shares a name and token symbol to identify/brand them across wallets and block explorers. If your Flow Splitter will be used for any external purposes (e.g. attracting funding for your team), you’re highly encouraged to use these fields.
 
-:::tip These Share tokens are different from those you will distribute through the Flow Splitter. Think of Shares as the “stock” of the Flow Splitter and the Super Token as the “dividend” currency. :::
+:::tip These Share tokens are different from those you will distribute through the Flow Splitter. Think of Shares as the “stock” of the Flow Splitter and the Super Token as the “dividend” currency.
+:::
 
 #### Core Configuration
 
@@ -74,7 +76,7 @@ You can set your Flow Splitter to \`No Admin\` anytime, but once Admin control i
 
 #### Share Register
 
-The Share Register represents the current [allocation weights](https://docs.superfluid.finance/docs/protocol/distributions/guides/pools#about-member-units) for your Flow Splitter.
+The Share Register represents the current [allocation weights](https://docs.superfluid.finance/docs/protocol/distributions/guides/pools#about-member-units) of your Flow Splitter.
 
 Every distribution (streaming or instant) sent to the Splitter is allocated based on the number of shares each address owns. When a share update is processed, active streaming distributions will automatically adjust their ongoing allocation.
 
@@ -102,7 +104,8 @@ The \`Open Flow\` button provides a guided checkout process for opening a stream
 
 We’ve included a simple line graph at checkout to demonstrate the impact of your transactions on your Super Token balance.
 
-:::tip Bookmark and share your unique Flow Splitter link with your team and community. We’ll explore public discovery and other ways to help attract funding to your Flow Splitter (if you want it). :::
+:::tip Bookmark and share your unique Flow Splitter link with your team and community. We’ll explore public discovery and other ways to help attract funding to your Flow Splitter (if you want it). 
+:::
 
 ### Receiving & Managing Funds
 
