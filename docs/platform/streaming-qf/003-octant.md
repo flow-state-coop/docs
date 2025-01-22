@@ -3,7 +3,7 @@ slug: /streaming-qf/octant
 description: Overview of the Octant Accelerator SQF round.
 ---
 
-# Octant Accelerator SQF (10/24 to 01/01)
+# Octant Accelerator SQF
 
 :::tip[Participate in the Round]
 TL;DR: Go to [https://flowstate.network/octant](https://flowstate.network/octant) to support your favorite public goods builders from the Octant Accelerator with 15+ ETH in real-time matching funds.
