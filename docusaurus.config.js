@@ -65,12 +65,6 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "conceptsSidebar",
-            position: "left",
-            label: "Concepts",
-          },
-          {
-            type: "docSidebar",
             sidebarId: "platformSidebar",
             position: "left",
             label: "Platform",
