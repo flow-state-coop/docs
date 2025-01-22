@@ -20,7 +20,7 @@ You can edit your main project description anytime, but after you’ve been acce
 
 ## Line Breaks
 
-*To create a line break or new line, end a line with two or more spaces, and then type return. Add an extra return to create a new paragraph. (Note: we do not support the HTML <br> syntax as a substitute.)*
+*To create a line break or new line, end a line with two or more spaces, and then type return. Add an extra return to create a new paragraph. (Note: we do not support the HTML `<br>` syntax as a substitute.)*
 
 This is the first line.  
 
