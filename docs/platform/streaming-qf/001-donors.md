@@ -1,4 +1,9 @@
-# Donor Guide
+---
+slug: /streaming-qf/donors
+description: How-to Guide for Streaming Quadratic Funders.
+---
+
+# Donors
 
 Grants on Flow State are streamed. 
 

@@ -1,3 +1,7 @@
+---
+description: Introduction to Streaming Quadratic Funding and its benefits.
+---
+
 # Streaming Quadratic Funding
 
 Streaming quadratic funding (SQF) is a novel implementation of [quadratic funding (QF)](https://www.wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000), the public goods funding mechanism [introduced by Vitalik Buterin, Zoe Hitzig, & Glen Weyl](https://arxiv.org/pdf/1809.06421) and popularized in web3 by [Gitcoin](https://www.gitcoin.co/).

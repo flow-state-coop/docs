@@ -1,3 +1,7 @@
+---
+description: Overview of the SQF grantee application process.
+---
+
 # Grantees
 
 ## Create a Project

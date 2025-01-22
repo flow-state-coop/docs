@@ -1,4 +1,5 @@
 ---
+slug: /flow-splitters/use-cases
 description: Ideas for how to use Flow Splitters.
 ---
 

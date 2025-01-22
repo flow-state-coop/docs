@@ -1,3 +1,8 @@
+---
+slug: /streaming-qf/grantees/project-markdown
+description: SQF projects support basic Markdown syntax.
+---
+
 # Project Markdown
 
 We get it. Your project is doing a lot, and you need a better way than a wall of text to deliver your Project Description. 

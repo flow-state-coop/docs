@@ -1,3 +1,8 @@
+---
+slug: /streaming-qf/octant
+description: Overview of the Octant Accelerator SQF round.
+---
+
 # Octant Accelerator SQF (10/24 to 01/01)
 
 :::tip[Participate in the Round]

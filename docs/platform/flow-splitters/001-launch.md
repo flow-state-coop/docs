@@ -1,8 +1,9 @@
 ---
+slug: /flow-splitters/launch
 description: How to configure and deploy Flow Splitters.
 ---
 
-# Launching a Flow Splitter
+# Launch
 
 Creating a Flow Splitter requires a wallet, a little ETH, and no code. Navigate to [https://flowstate.network/flow-splitters/launch](https://flowstate.network/flow-splitters/launch) to get started.
 

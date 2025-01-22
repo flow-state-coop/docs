@@ -1,33 +1,16 @@
 ---
-description: How to interact with deployed Flow Splitters.
+slug: /flow-splitters/recipients
+description: How to manage funding from Flow Splitters.
 ---
 
-# Funders & Recipients
-
-## Distribute & Visualize
-
-Each Flow Splitter launched on Flow State has its own publicly accessible “home page.”
-
-More features will be coming to this page soon (see Roadmap), but for now, it’s good for visualizing your Flow Splitter money flows and opening new ones.
-
-You can navigate to any Flow Splitters you’re part of [https://flowstate.network/flow-splitters](https://flowstate.network/flow-splitters).
-
-The \`Open Flow\` button provides a guided checkout process for opening a streaming distribution to the Flow Splitter. Set the rate you want to stream, (optionally) wrap an ERC20 token into the Super Token format for streaming, and submit.
-
-We’ve included a simple line graph at checkout to demonstrate the impact of your transactions on your Super Token balance.
-
-:::tip[Share your Flow Splitter] 
-Bookmark and share your unique Flow Splitter link with your team and community. We’ll explore public discovery and other ways to help attract funding to your Flow Splitter (if you want it). 
-:::
-
-## Receiving & Managing Funds
+# Recipients
 
 There are two tokens relevant to each Flow Splitter:
 
 1. Shares - Flow Splitter-specific tokens that are used to allocate distributions proportionally.
 2. Distribution Token - The _Super Token_ streamed & distributed through the Flow Splitter.
 
-### Shares
+## Shares
 
 Each Flow Splitter is based on its own ERC20 token. Like other ERC20 tokens, they can have a name and a token symbol. You can add them to display in your wallet from the Flow Splitter homepage or copy/paste the contract address into your wallet’s add token tool.
 
@@ -37,7 +20,7 @@ Holding these tokens earns you a proportional allocation of all future cash flow
 
 These shares may or may not be transferable depending on how your Flow Splitter admin set them up. It’s also important to note that any admins on your Flow Splitter can edit the Share Registry anytime.
 
-### Connecting Shares
+## Connecting Shares
 
 Recipients added to a Flow Splitter must complete a one-time transaction to begin seeing corresponding distributions reflected in their real-time token balance. If distributions are made before the recipient completes this transaction, the funds are safe and will be made available upon connection.
 
@@ -53,7 +36,7 @@ So while the example above is simplified from the actual protocol implementation
 Yay, programmable money! 
 :::
 
-### Super Tokens
+## Super Tokens
 
 [Super Tokens](https://docs.superfluid.finance/docs/concepts/overview/super-tokens) are Superfluid’s extension of the ERC20 token standard. Every Flow Splitter is associated with just one of these tokens. They are the _currency_ that is distributed through the Flow Splitter.
 

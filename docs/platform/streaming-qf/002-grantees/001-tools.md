@@ -1,4 +1,9 @@
-# Grantee Tools
+---
+slug: /streaming-qf/grantees/tools
+description: Overview of tools available to SQF grantees.
+---
+
+# Tools
 
 Once you’ve been accepted to an SQF round, there are several round-specific tools available to help manage and grow your grant. 
 

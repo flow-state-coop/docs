@@ -1,8 +1,9 @@
 ---
+slug: /flow-splitters/admin
 description: How to make updates to a deployed Flow Splitters.
 ---
 
-# Editing a Flow Splitter
+# Admin
 
 As long as you have an Admin on the Flow Splitter, you can edit your Share Registry and Admins anytime.
 
