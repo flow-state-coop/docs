@@ -84,7 +84,7 @@ As long as you have an Admin on the Flow Splitter, you can edit your Share Regis
 
 Immutable Flow Splitters have their place, but we’re most excited about teams (which inherently evolve) earning/allocating streaming revenue and dynamic allocation use cases. Stay tuned for tools to help you easily manage your Flow Splitters programmatically.
 
-You can navigate to <https://flowstate.network/flow-splitters> to see all the Flow Splitters you’re a part of—Admin or not.
+You can navigate to [https://flowstate.network/flow-splitters](https://flowstate.network/flow-splitters) to see all the Flow Splitters you’re a part of—Admin or not.
 
 ### Distribute & Visualize
 
@@ -92,7 +92,7 @@ Each Flow Splitter launched on Flow State has its own publicly accessible “hom
 
 More features will be coming to this page soon (see Roadmap), but for now, it’s good for visualizing your Flow Splitter money flows and opening new ones.
 
-You can navigate to any Flow Splitters you’re part of <https://flowstate.network/flow-splitters>.
+You can navigate to any Flow Splitters you’re part of [https://flowstate.network/flow-splitters](https://flowstate.network/flow-splitters).
 
 The \`Open Flow\` button provides a guided checkout process for opening a streaming distribution to the Flow Splitter. Set the rate you want to stream, (optionally) wrap an ERC20 token into the Super Token format for streaming, and submit.
 
