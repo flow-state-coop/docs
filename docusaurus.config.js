@@ -4,49 +4,51 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from "prism-react-renderer";
+import remarkEmbed from "./src/remark/embed";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Flow State Docs',
-  tagline: 'Making Impact Common',
-  favicon: 'img/favicon.ico',
+  title: "Flow State Docs",
+  tagline: "Making Impact Common",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://docs.flowstate.network',
+  url: "https://docs.flowstate.network",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'flow-state-coop', // Usually your GitHub org/user name.
-  projectName: 'docs', // Usually your repo name.
+  organizationName: "flow-state-coop", // Usually your GitHub org/user name.
+  projectName: "docs", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
-          routeBasePath: '/',
+          sidebarPath: "./sidebars.js",
+          routeBasePath: "/",
+          remarkPlugins: [remarkEmbed],
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       }),
     ],
@@ -55,12 +57,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/social-card.png',
+      image: "img/social-card.png",
       navbar: {
-        title: 'Flow State',
+        title: "Flow State",
         logo: {
-          alt: 'Logo',
-          src: 'img/logo.png',
+          alt: "Logo",
+          src: "img/logo.png",
         },
         items: [
           {
@@ -89,23 +91,23 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Community',
+            title: "Community",
             items: [
               {
-                label: 'X',
-                href: 'https://x.com/flowstatecoop',
+                label: "X",
+                href: "https://x.com/flowstatecoop",
               },
             ],
           },
           {
-            title: 'More',
+            title: "More",
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/flow-state-coop',
+                label: "GitHub",
+                href: "https://github.com/flow-state-coop",
               },
             ],
           },
@@ -117,6 +119,7 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  clientModules: ["./src/twitterWidgetModule.js"],
 };
 
 export default config;
