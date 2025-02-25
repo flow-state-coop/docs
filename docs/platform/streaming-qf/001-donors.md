@@ -99,9 +99,11 @@ Adding to an SQF matching pool is even easier than making a direct donation (bec
 
 Streaming is a continuous value transfer method--meaning streams impact your Super Token balance between transactions.
 
+![Stream Graph Example](https://github.com/user-attachments/assets/39ee6f89-bbd1-45ec-a372-25d78c8ceaa1)
+
 Streams transfer tokens at their set rate until increased, decreased, or closed with another transaction. 
 
-You can modify your stream or close it at anytime.
+You can modify your stream or close it at any time.
 
 :::Danger[Insufficient Funds to Stream]
 
@@ -114,12 +116,18 @@ You should close and/or lower your streams before your token balance reaches 0 t
 :::
 
 ### Closing a Matching Stream
+
+<img width="359" alt="Cancel Stream" src="https://github.com/user-attachments/assets/b365039b-b14a-4865-983d-5d7429bd9744" />
+
 1. Click `Grow the Pie`
 2. Enter `0` for your stream rate
 3. Click `Cancel Stream`
 4. Proceed through the rest of the checkout flow and sign the transaction
 
 ### Closing a Direct Donation
+
+<img width="286" alt="Your Stream" src="https://github.com/user-attachments/assets/c272287c-35ad-4c97-aafe-aa96cdf6bdb5" />
+
 1. Click `Donate` on the grantee that you want to cancel a stream to
     - Grantees that you are currently streaming to will have a **Your Stream** value 
 2. Enter `0` for the new stream rate
