@@ -49,7 +49,7 @@ Flow State direct donations & voting utilize an eligibility check to help combat
 
 ### Opening an SQF Donation Stream
 
-[https://youtu.be/xZ8ojwyWC8I](https://youtu.be/xZ8ojwyWC8I)
+!(https://www.youtube.com/embed/xZ8ojwyWC8I)
 
 Donation streams impact grantee funding in two ways—directly and through matching. The more broadly a grantee is supported the higher their matching multiplier will be. 
 
@@ -86,7 +86,7 @@ Donating to the matching pool amplifies the Flow State. It's an onchain superpow
 
 ### Opening an SQF Matching Stream
 
-[https://youtu.be/-_i4Priiwbc](https://youtu.be/-_i4Priiwbc)
+!(https://www.youtube.com/embed/-_i4Priiwbc)
 
 Adding to an SQF matching pool is even easier than making a direct donation (because it’s not subject to eligibility/Sybil checks):
 
@@ -94,3 +94,34 @@ Adding to an SQF matching pool is even easier than making a direct donation (bec
 2. Click the “Grow the Pie” button in the header
 3. Follow the step-by-step instructions for opening a matching stream
 4. Every grantee in the round receives more funding based on the Flow State
+
+## Managing Streams & Super Token Balances
+
+Streaming is a continuous value transfer method--meaning streams impact your Super Token balance between transactions.
+
+Streams transfer tokens at their set rate until increased, decreased, or closed with another transaction. 
+
+You can modify your stream or close it at anytime.
+
+:::Danger[Insufficient Funds to Stream]
+
+You can't stream tokens you don't have! 
+
+If your Super Token balance hits 0, your outgoing streams will be closed. [You will lose the buffer deposit(s) collected when you opened the stream(s).](https://help.superfluid.finance/en/articles/5744874-how-do-stream-buffers-work-in-superfluid) These buffer deposits & forfeiture help keep protocol stays solvent.
+
+You should close and/or lower your streams before your token balance reaches 0 to avoid losing your deposits.
+
+:::
+
+### Closing a Matching Stream
+1. Click `Grow the Pie`
+2. Enter `0` for your stream rate
+3. Click `Cancel Stream`
+4. Proceed through the rest of the checkout flow and sign the transaction
+
+### Closing a Direct Donation
+1. Click `Donate` on the grantee that you want to cancel a stream to
+    - Grantees that you are currently streaming to will have a **Your Stream** value 
+2. Enter `0` for the new stream rate
+3. Click `Cancel Stream`
+4. Proceed through the rest of the checkout flow and sign the transaction
