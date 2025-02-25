@@ -105,14 +105,12 @@ Streams transfer tokens at their set rate until increased, decreased, or closed 
 
 You can modify your stream or close it at any time.
 
-:::Danger[Insufficient Funds to Stream]
-
+:::danger[Insufficient Funds to Stream]
 You can't stream tokens you don't have! 
 
 If your Super Token balance hits 0, your outgoing streams will be closed. [You will lose the buffer deposit(s) collected when you opened the stream(s).](https://help.superfluid.finance/en/articles/5744874-how-do-stream-buffers-work-in-superfluid) These buffer deposits & forfeiture help keep protocol stays solvent.
 
 You should close and/or lower your streams before your token balance reaches 0 to avoid losing your deposits.
-
 :::
 
 ### Closing a Matching Stream
