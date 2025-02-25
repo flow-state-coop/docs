@@ -122,7 +122,7 @@ You should close and/or lower your streams before your token balance reaches 0 t
 3. Click `Cancel Stream`
 4. Proceed through the rest of the checkout flow and sign the transaction
 
-### Closing a Direct Donation
+### Closing a Direct Donation Stream
 
 <img width="286" alt="Your Stream" src="https://github.com/user-attachments/assets/c272287c-35ad-4c97-aafe-aa96cdf6bdb5" />
 
