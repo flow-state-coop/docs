@@ -9,9 +9,7 @@ Flow Councils are dynamic. They empower voters to incorporate new information an
 
 Every time a vote is (re)cast, funding flows will adapt.
 
-\[
-\text{payout\_rate} = \frac{\text{recipient votes}}{\text{total votes}} \times \text{funding stream}
-\]
+`payout_rate = (recipient votes / total votes) × funding stream`
 
 Council votes are cast in ballots. Council Members review grantee information, add their favorites to a ballot, allocate whole votes (up to their voting budgets and spread max), and then submit with a single transaction. Voters can edit and recast their ballot anytime.
 

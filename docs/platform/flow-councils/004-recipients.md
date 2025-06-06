@@ -13,9 +13,7 @@ Flow Councils pay out in real time—-there's no end-of-round lump-sum payout. R
 
 The rate at which a recipient earns funding is proportional to the number of votes they've collected: 
 
-\[
-\text{payout\_rate} = \frac{\text{recipient votes}}{\text{total votes}} \times \text{funding stream}
-\]
+`payout_rate = (recipient votes / total votes) × funding stream`
 
 When a new vote is cast (i.e., a change to the denominator), the funding rate for all recipients be atomically updated. When a vote is recast (i.e., a change a numerator), one or more recipients will see their funding updated in real-time.
 
