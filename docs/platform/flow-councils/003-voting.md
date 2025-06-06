@@ -1,10 +1,9 @@
 ---
 slug: /flow-councils/voting
-description: How to vote in a Flow Council.
+description: How to vote in a Flow Council
 ---
 
 # Voting
-
 Flow Councils are dynamic. They empower voters to incorporate new information and evolving preferences for more efficient resource allocation.
 
 Every time a vote is (re)cast, funding flows will adapt.

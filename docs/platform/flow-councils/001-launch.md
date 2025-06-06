@@ -1,10 +1,9 @@
 ---
 slug: /flow-councils/launch
-description: How to configure and deploy Flow Councils.
+description: How to configure and deploy Flow Councils
 ---
 
 # Launch
-
 Flow Councils are available for deployment on Arbitrum One, Base, Celo, and OP Mainnet networks. 
 
 Each Flow Council is configured to distribute a single [Superfluid Super Token](https://docs.superfluid.org/docs/concepts/overview/super-tokens). Flow State natively supports many popular Super Tokens, but allows also allows deployers to set any [valid Super Token contract address](https://explorer.superfluid.org/arbitrum-one/supertokens) as the distribution currency. Once deployed, this token selection cannot be changed.

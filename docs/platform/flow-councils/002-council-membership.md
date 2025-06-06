@@ -1,10 +1,9 @@
 ---
 slug: /flow-councils/launch
-description: How to Council Membership works.
+description: How to Council Membership works
 ---
 
 # Council Membership
-
 A **Council** is the set of wallet addresses that may cast votes in a Flow Council round. The round administrator define a **voting policy** when a round is created:
 
 1. **Who can vote** – a member list of Ethereum addresses 

@@ -1,9 +1,8 @@
 ---
-slug: /flow-councils/recipients
-description: Applying to and receiving funding through a Flow Council
+slug: /flow-councils/grow-the-pie
+description: Adding streaming funding to a Flow Council
 ---
 # Grow The Pie
-
 Flow Councils aren't just for fixed budgets: anyone can permissionlessly **Grow the Pie** by streaming additional tokens into the Council's distribution pool.
 
 1. **Open a stream.** In the header of any Flow Council, click the `Grow the Pie` button. Follow the checkout flow to open/edit your stream (including [wrapping a Super Token](https://docs.superfluid.org/docs/concepts/overview/super-tokens#wrapper-super-tokens), if necessary).
