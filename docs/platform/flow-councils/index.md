@@ -12,7 +12,7 @@ Flow Councils enable real-time (re)allocation of budgets based on new informatio
 
 Flow Councils are a great tool for grants programs, organizational budgeting, and any collective allocation process to become more dynamic and effective.
 
-![Flow Council Architecture](https://github.com/user-attachments/assets/807e53bf-61ae-48d5-aae4-4cdc960a478d)
+![Flow Council Architecture_2](https://github.com/user-attachments/assets/5e6e1d40-733f-40a7-8752-146d2f6867d6)
 
 In June, we'll be releasing a no-code launchpad for Flow Councils. In the meantime, reach out to us on [Telegram](https://t.me/flowstatecoop) if you're interested in being one of the first Flow Council users.
 
