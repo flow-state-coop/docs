@@ -1,6 +1,6 @@
 ---
 slug: /flow-councils/grow-the-pie
-description: Adding streaming funding to a Flow Council
+description: Opening streaming funding to a Flow Council
 ---
 # Grow The Pie
 Flow Councils aren't just for fixed budgets: anyone can permissionlessly **Grow the Pie** by streaming additional tokens into the Council's distribution pool.

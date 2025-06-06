@@ -1,6 +1,6 @@
 ---
-slug: /flow-councils/launch
-description: How to Council Membership works
+slug: /flow-councils/council-membership
+description: Setting Council membership and a voting policy
 ---
 
 # Council Membership
