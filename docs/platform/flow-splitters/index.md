@@ -1,5 +1,6 @@
 ---
 description: The easiest way to dynamically stream tokens to your team, guild, DAO, or community.
+sidebar_position: 2
 ---
 
 # Flow Splitters
