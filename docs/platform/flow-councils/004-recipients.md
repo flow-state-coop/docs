@@ -4,7 +4,7 @@ description: Applying to and receiving funding through a Flow Council
 ---
 
 # Funding Recipients
-Each Flow Council has a fully-integrated, unique application form provided by the round operator. Applications include project name, description (markdown supported), branding, social profiles, links, and anything else reviewers and voters need to evaluate the project. Currently, we leverage the Gitcoin Allo Project Registry to streamline project applications, but with protocol maintenance recently ceasing, we'll likely migrate to a new solution in the future.
+Each Flow Council has a fully-integrated, unique application form. Round operators build their own form with the no-code [form builder](006-applications.md)—adding fields for project name, description (markdown supported), branding, social profiles, links, milestones, and anything else reviewers and voters need to evaluate the project. Applicants create a **project** once and can reuse it across rounds; see [Applications & Review](006-applications.md) for the full flow.
 
 Round operators can review applications on a rolling basis. Approved projects are added directly to the onchain Flow Council distribution pool. Round operators may also choose to remove recipients from the pool due to inactivity or planned refreshes.
 

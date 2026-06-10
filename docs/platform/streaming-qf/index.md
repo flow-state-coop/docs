@@ -1,5 +1,6 @@
 ---
 description: Introduction to Streaming Quadratic Funding and its benefits.
+sidebar_position: 3
 ---
 
 # Streaming Quadratic Funding
