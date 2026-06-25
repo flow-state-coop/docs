@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 slug: /
+description: "Continuous funding apps, payment tools, & incentive systems powered by Superfluid: Flow Councils, Flow Splitters, Flow QF, & more."
 ---
 
 # Welcome to Flow State
