@@ -57,7 +57,24 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: "img/social-card.png",
+      image: "img/og_v2.png",
+      metadata: [
+        {
+          name: "description",
+          content:
+            "Continuous funding apps, payment tools, & incentive systems powered by Superfluid: Flow Councils, Flow Splitters, Flow QF, & more.",
+        },
+        {
+          property: "og:description",
+          content:
+            "Continuous funding apps, payment tools, & incentive systems powered by Superfluid: Flow Councils, Flow Splitters, Flow QF, & more.",
+        },
+        {
+          name: "twitter:description",
+          content:
+            "Continuous funding apps, payment tools, & incentive systems powered by Superfluid: Flow Councils, Flow Splitters, Flow QF, & more.",
+        },
+      ],
       navbar: {
         title: "Flow State",
         logo: {
