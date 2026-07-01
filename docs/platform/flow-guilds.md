@@ -1,7 +1,7 @@
 ---
 slug: /flow-guilds
 description: Community guild funding pages
-sidebar_position: 7
+sidebar_position: 4
 ---
 
 # Flow Guilds

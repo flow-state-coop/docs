@@ -101,12 +101,6 @@ const config = {
             label: "Developers",
           },
           {
-            type: "docSidebar",
-            sidebarId: "cooperativeSidebar",
-            position: "left",
-            label: "Cooperative",
-          },
-          {
             href: "https://github.com/flow-state-coop",
             label: "GitHub",
             position: "right",
