@@ -7,7 +7,7 @@ sidebar_position: 3
 # Flow QF
 
 :::tip[Want to run a round?]
-We've designed and run Flow QF rounds, and we're happy to set one up for your ecosystem or community. [Get in touch on Telegram](https://t.me/flowstatecoop) if you want to run a round.
+We've designed and run Flow QF rounds, and we're happy to set one up for your ecosystem or community. [Get in touch on Telegram](https://t.me/+U6ZFRmOnFWo1ZGUx) if you want to run a round.
 :::
 
 Flow QF (aka Streaming Quadratic Funding, or SQF) is a novel implementation of [quadratic funding (QF)](https://www.wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000), the public goods funding mechanism [introduced by Vitalik Buterin, Zoe Hitzig, & Glen Weyl](https://arxiv.org/pdf/1809.06421) and popularized in web3 by [Gitcoin](https://www.gitcoin.co/).
